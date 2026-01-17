@@ -1,0 +1,284 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-BKZGKZ8NBW"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-BKZGKZ8NBW');
+</script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>DAT MONITOR</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        function logEvent(eventName, params) {
+            if (typeof gtag === 'function') {
+                gtag('event', eventName, params);
+            } else {
+                console.log('[GA_EVENT_LOG]:', eventName, params);
+            }
+        }
+    </script>
+    <style>
+        body { background-color: #020617; color: #f8fafc; overflow-x: hidden; }
+        .mNAV-low { color: #4ade80; font-weight: 800; }
+        .mNAV-high { color: #f87171; }
+        th { 
+            cursor: pointer; 
+            text-transform: none !important; 
+            position: sticky; 
+            top: 0; 
+            z-index: 20; 
+            background-color: #0f172a !important;
+            white-space: nowrap;
+        }
+        .sort-icon { font-size: 8px; margin-left: 2px; opacity: 0.6; }
+        .font-mono { font-family: 'JetBrains Mono', monospace; }
+        .no-caps { text-transform: none !important; }
+        .table-container { height: 80vh; overflow-y: auto; overflow-x: hidden; border: 1px solid #334155; }
+        .btc-color { color: #f59e0b; }
+        .dynamic-text { font-size: clamp(9px, 2.2vw, 14px); }
+        td { white-space: nowrap; position: relative; }
+        .company-name { white-space: normal; line-height: 1.0; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; font-size: 9px; }
+        .force-show { white-space: nowrap !important; overflow: visible !important; }
+
+        .tooltip {
+            visibility: hidden;
+            position: absolute;
+            z-index: 100; 
+            bottom: 10%; 
+            left: 50%;
+            transform: translate(-50%, -50%);
+            background-color: rgba(30, 41, 59, 0.95);
+            color: #fff;
+            text-align: center;
+            padding: 4px 8px;
+            border-radius: 4px;
+            font-size: 10px;
+            border: 1px solid #6366f1;
+            box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.7);
+            white-space: nowrap;
+            pointer-events: none; 
+        }
+        tr:nth-child(-n+3) .tooltip {
+            bottom: auto;
+            top: 120%;
+        }
+        td:active .tooltip, td:hover .tooltip { visibility: visible; }
+    </style>
+</head>
+<body class="p-1 sm:p-4">
+    <div class="w-full mx-auto">
+        <header class="mb-4 border-b border-slate-700 pb-2 flex justify-between items-start">
+            <div onclick="location.href='https://mstr-sage.netlify.app'" class="cursor-pointer">
+                <h1 class="text-xl font-black text-indigo-400 italic uppercase hover:text-indigo-300 transition-colors">DAT MONITOR</h1>
+                <p class="text-slate-400 no-caps font-bold text-[10px]">mNAV (EV/BV) Analysis</p>
+            </div>
+            <div class="text-right">
+                <div id="btc-price-display" class="text-base font-mono btc-color font-black">BTC Loading...</div>
+                <div class="mt-1 flex items-center justify-end gap-1">
+                    <span class="text-slate-500 text-[10px] font-bold mr-1">Global mNAV Step:</span>
+                    <button onclick="adjustAllmNAV(-0.1)" class="bg-slate-700 px-1.5 py-0.5 rounded text-[10px]">-0.1</button>
+                    <button onclick="adjustAllmNAV(0.1)" class="bg-slate-700 px-1.5 py-0.5 rounded text-[10px]">+0.1</button>
+                </div>
+            </div>
+        </header>
+
+        <div class="table-container bg-slate-800 shadow-2xl rounded-lg">
+            <table class="w-full text-left border-collapse table-fixed">
+                <thead>
+                    <tr id="header-row" class="bg-slate-900 text-slate-400 uppercase text-[10px] font-bold">
+                        <th class="p-1 w-[16%]" onclick="handleSort('name')">Entity<span class="sort-icon">↕</span></th>
+                        <th class="p-1 w-[10%]" onclick="handleSort('ticker_or_country')">Tkr<span class="sort-icon">↕</span></th>
+                        <th class="p-1 text-right w-[14%]" onclick="handleSort('live_price')">Prv<span class="sort-icon">↕</span></th>
+                        <th class="p-1 text-right btc-color w-[12%]" onclick="handleSort('btcHoldings')">BTC<span class="sort-icon">↕</span></th>
+                        <th class="p-1 text-right border-x border-slate-700/50 w-[10%]" onclick="handleSort('btcValue')">BV<span class="sort-icon">↕</span></th>
+                        <th class="p-1 text-right w-[10%]" onclick="handleSort('marketCap')">MC<span class="sort-icon">↕</span></th>
+                        <th class="p-1 text-right w-[10%]" onclick="handleSort('ev')">EV<span class="sort-icon">↕</span></th>
+                        <th class="p-1 text-center text-amber-400 bg-slate-900 no-caps border-l border-amber-900/30 w-[14%]" onclick="handleSort('current_mNAV')">mNAV<span class="sort-icon">↕</span></th>
+                        <th class="p-1 text-right text-emerald-400 w-[14%]" onclick="handleSort('targetPrice')">Target<span class="sort-icon">↕</span></th>
+                        <th class="p-1 text-right text-pink-400 w-[12%]" onclick="handleSort('upside')">UP<span class="sort-icon">↕</span></th>
+                    </tr>
+                </thead>
+                <tbody id="main-table" class="divide-y divide-slate-700 font-mono dynamic-text">
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    <script>
+        const BTC_API = "https://api.binance.com/api/v3/ticker/price?symbol=BTCUSDT";
+        let originalData = [];
+        let currentData = [];
+        let sortCol = '';
+        let sortDir = 0; 
+
+        async function initDashboard() {
+            try {
+                const btcRes = await fetch(BTC_API);
+                const btcData = await btcRes.json();
+                const btcPrice = parseFloat(btcData.price);
+                document.getElementById('btc-price-display').innerText = `BTC: $${btcPrice.toLocaleString()}`;
+
+                const GITHUB_DATA_URL = 'https://raw.githubusercontent.com/stinlove81/mstr-sage/main/data.json';
+                const res = await fetch(GITHUB_DATA_URL + '?v=' + Date.now());
+                const data = await res.json();
+                
+                originalData = data.map(item => {
+                    const cleanNum = (val) => parseFloat(val?.toString().replace(/[$,M]/g, '')) || 0;
+                    const btcHoldings = cleanNum(item.btc_holdings);
+                    const btcValue = btcHoldings * btcPrice;
+                    const marketCap = cleanNum(item.extra_val_1) * 1000000;
+                    const ev = cleanNum(item.extra_val_2) * 1000000;
+                    const debtNet = ev - marketCap;
+                    const mNAV = btcValue > 0 ? (ev / btcValue) : null;
+                    const prevClose = (item.live_price && !isNaN(item.live_price)) ? parseFloat(item.live_price) : 0;
+                    const shares = prevClose > 0 ? (marketCap / prevClose) : 0;
+                    
+                    return { ...item, btcHoldings, btcValue, marketCap, ev, mNAV, debtNet, shares, current_mNAV: mNAV, live_price: prevClose };
+                });
+
+                currentData = [...originalData];
+                renderTable(currentData);
+            } catch (err) { console.error(err); }
+        }
+
+        function renderTable(data) {
+            const tbody = document.getElementById('main-table');
+            tbody.innerHTML = '';
+
+            data.forEach((item, index) => {
+                const mDisplay = item.current_mNAV !== null ? item.current_mNAV.toFixed(2) : "N/A";
+                const mClass = (item.current_mNAV !== null && item.current_mNAV < 1.0) ? 'mNAV-low' : 'text-slate-400';
+                
+                let targetPrice = 0;
+                let upside = 0;
+                if (item.current_mNAV !== null && item.shares > 0) {
+                    targetPrice = ((item.current_mNAV * item.btcValue) - item.debtNet) / item.shares;
+                    if (item.live_price > 0) upside = ((targetPrice / item.live_price) - 1) * 100;
+                }
+                item.targetPrice = targetPrice;
+                item.upside = upside;
+
+                const tickerDisplay = (item.live_price > 0) 
+                    ? `<a href="https://mstr-sage.netlify.app/usa?${item.ticker_or_country}" target="_blank" class="text-indigo-400 font-bold border-b border-indigo-400/30">${item.ticker_or_country}</a>`
+                    : `<span class="text-indigo-400 font-bold">${item.ticker_or_country}</span>`;
+
+                const tr = document.createElement('tr');
+                tr.className = "hover:bg-slate-700/30 transition-colors";
+                tr.innerHTML = `
+                    <td class="p-1 font-sans font-medium text-slate-300"><div class="company-name">${item.name}</div></td>
+                    <td class="p-1">${tickerDisplay}</td>
+                    <td class="p-1 text-right text-slate-400 font-bold force-show">$${item.live_price > 0 ? item.live_price.toFixed(1) : '-'}</td>
+                    <td class="p-1 text-right btc-color font-bold force-show">
+                        ${(item.btcHoldings/1000).toFixed(1)}K
+                        <span class="tooltip">${item.btcHoldings.toLocaleString()} BTC</span>
+                    </td>
+                    <td class="p-1 text-right text-slate-500 font-normal border-x border-slate-700/30">
+                        ${(item.btcValue/1000000000).toFixed(1)}
+                        <span class="tooltip">$${(item.btcValue/1000000).toFixed(1)}M</span>
+                    </td>
+                    <td class="p-1 text-right text-slate-500 font-normal">
+                        ${(item.marketCap/1000000000).toFixed(1)}
+                        <span class="tooltip">$${(item.marketCap/1000000).toFixed(1)}M</span>
+                    </td>
+                    <td class="p-1 text-right text-slate-500 font-normal">
+                        ${(item.ev/1000000000).toFixed(1)}
+                        <span class="tooltip">$${(item.ev/1000000).toFixed(1)}M</span>
+                    </td>
+                    <td class="p-1 text-center font-black ${mClass} bg-slate-700/20 no-caps">
+                        <div class="flex flex-col items-center">
+                            <span>${mDisplay}</span>
+                            <div class="flex gap-1 mt-0.5">
+                                <button onclick="event.stopPropagation(); adjustSinglemNAV(${index}, -0.1)" class="bg-slate-600 px-0.5 rounded text-[7px]">-</button>
+                                <button onclick="event.stopPropagation(); adjustSinglemNAV(${index}, 0.1)" class="bg-slate-600 px-0.5 rounded text-[7px]">+</button>
+                            </div>
+                        </div>
+                    </td>
+                    <td class="p-1 text-right font-black text-emerald-400 bg-emerald-900/10 force-show">
+                        $${targetPrice.toFixed(1)}
+                        <span class="tooltip">$${targetPrice.toFixed(2)}</span>
+                    </td>
+                    <td class="p-1 text-right font-normal text-pink-400 text-[14px] force-show">
+                        ${upside.toFixed(0)}%
+                        <span class="tooltip">${upside.toFixed(2)}%</span>
+                    </td>
+                `;
+                tbody.appendChild(tr);
+            });
+        }
+
+        window.adjustSinglemNAV = (index, step) => { 
+            if(currentData[index].current_mNAV !== null) { 
+                currentData[index].current_mNAV += step; 
+                renderTable(currentData); 
+                // 구글 이벤트 로그: 개별 종목 조절
+                logEvent('single_mnav_adjust', { 'ticker': currentData[index].ticker_or_country, 'step': step });
+            } 
+        };
+
+        window.adjustAllmNAV = (step) => { 
+            currentData.forEach(item => { if(item.current_mNAV !== null) item.current_mNAV += step; }); 
+            renderTable(currentData); 
+            // 구글 이벤트 로그: 전체 조절
+            logEvent('global_mnav_adjust', { 'step': step });
+        };
+
+        function handleSort(col) {
+            if (sortCol === col) sortDir = (sortDir + 1) % 3;
+            else { sortCol = col; sortDir = 1; }
+            
+            // 구글 이벤트 로그: 정렬
+            logEvent('table_sort', { 'column': col, 'direction': sortDir });
+
+            const headers = document.querySelectorAll('th');
+            headers.forEach(th => {
+                const icon = th.querySelector('.sort-icon');
+                if (th.getAttribute('onclick').includes(`'${col}'`)) {
+                    icon.innerText = sortDir === 1 ? '↑' : sortDir === 2 ? '↓' : '↕';
+                    icon.style.opacity = sortDir === 0 ? "0.6" : "1";
+                } else {
+                    icon.innerText = '↕';
+                    icon.style.opacity = "0.6";
+                }
+            });
+            if (sortDir === 0) currentData = [...originalData];
+            else {
+                currentData.sort((a, b) => {
+                    let valA = a[col], valB = b[col];
+                    if (valA === null || valA === undefined) return 1;
+                    if (valB === null || valB === undefined) return -1;
+                    return sortDir === 1 ? (valA > valB ? 1 : -1) : (valA < valB ? 1 : -1);
+                });
+            }
+            renderTable(currentData);
+        }
+
+initDashboard();
+
+        /* ===== 우클릭 방지 ===== */
+        document.addEventListener("contextmenu", e => {
+            e.preventDefault();
+            alert("우클릭이 비활성화되어 있습니다.");
+        });
+
+        /* ===== 키보드 단축키 방지 (Ctrl+U 포함) ===== */
+        document.onkeydown = function(e) {
+            // F12 (개발자 도구)
+            if (e.keyCode == 123) return false;
+            
+            // Ctrl + Shift + I/J/C (개발자 도구, 콘솔, 요소 검사)
+            if (e.ctrlKey && e.shiftKey && (e.keyCode == 73 || e.keyCode == 74 || e.keyCode == 67)) return false;
+            
+            // Ctrl + U (소스 보기), Ctrl + S (저장), Ctrl + A (전체 선택), Ctrl + C (복사)
+            if (e.ctrlKey && (e.keyCode == 85 || e.keyCode == 83 || e.keyCode == 65 || e.keyCode == 67)) return false;
+            
+            return true;
+        };
+    </script>
+</body>
+</html>
