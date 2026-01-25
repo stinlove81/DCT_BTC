@@ -114,7 +114,7 @@
     {
         "name": "Cango Inc",
         "ticker_or_country": "CANG",
-        "btc_holdings": "7,758",
+        "btc_holdings": "7,874",
         "extra_val_1": "$238M",
         "extra_val_2": "$1,004M",
         "live_price": 1.38
@@ -227,7 +227,7 @@
         "name": "The Smarter Web Company PLC",
         "ticker_or_country": "SWC",
         "btc_holdings": "2,674",
-        "extra_val_1": "$179M",
+        "extra_val_1": "$178M",
         "extra_val_2": "$4M",
         "live_price": 0
     },
@@ -741,7 +741,7 @@
         "btc_holdings": "159",
         "extra_val_1": "$327M",
         "extra_val_2": "$190M",
-        "live_price": 7.88
+        "live_price": 7.71
     },
     {
         "name": "B HODL",
