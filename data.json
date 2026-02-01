@@ -114,7 +114,7 @@
     {
         "name": "Cango Inc",
         "ticker_or_country": "CANG",
-        "btc_holdings": "7,874",
+        "btc_holdings": "7,982",
         "extra_val_1": "$221M",
         "extra_val_2": "$987M",
         "live_price": 1.25
@@ -459,8 +459,8 @@
         "name": "Aker ASA",
         "ticker_or_country": "AKER",
         "btc_holdings": "754",
-        "extra_val_1": "$6,840M",
-        "extra_val_2": "$10,003M",
+        "extra_val_1": "$6,867M",
+        "extra_val_2": "$10,042M",
         "live_price": 0
     },
     {
@@ -788,7 +788,7 @@
         "ticker_or_country": "V3TC",
         "btc_holdings": "135",
         "extra_val_1": "$73M",
-        "extra_val_2": "$2M",
+        "extra_val_2": "$6M",
         "live_price": 0
     },
     {
