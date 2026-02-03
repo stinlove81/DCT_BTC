@@ -3,32 +3,32 @@
         "name": "Strategy",
         "ticker_or_country": "MSTR",
         "btc_holdings": "713,502",
-        "extra_val_1": "$44,489M",
-        "extra_val_2": "$61,044M",
+        "extra_val_1": "$44,109M",
+        "extra_val_2": "$60,663M",
         "live_price": 141.2
     },
     {
         "name": "MARA Holdings, Inc.",
         "ticker_or_country": "MARA",
         "btc_holdings": "53,250",
-        "extra_val_1": "$3,459M",
-        "extra_val_2": "$6,272M",
+        "extra_val_1": "$3,477M",
+        "extra_val_2": "$6,291M",
         "live_price": 9.25
     },
     {
         "name": "Twenty One Capital",
         "ticker_or_country": "XXI",
         "btc_holdings": "43,514",
-        "extra_val_1": "$2,467M",
-        "extra_val_2": "$2,467M",
+        "extra_val_1": "$2,439M",
+        "extra_val_2": "$2,439M",
         "live_price": 7.65
     },
     {
         "name": "Metaplanet Inc.",
         "ticker_or_country": "MPJPY",
         "btc_holdings": "35,102",
-        "extra_val_1": "$2,955M",
-        "extra_val_2": "$3,694M",
+        "extra_val_1": "$2,944M",
+        "extra_val_2": "$3,682M",
         "live_price": 2.71
     },
     {
@@ -43,72 +43,72 @@
         "name": "Bullish",
         "ticker_or_country": "BLSH",
         "btc_holdings": "24,300",
-        "extra_val_1": "$3,055M",
-        "extra_val_2": "$3,644M",
+        "extra_val_1": "$3,069M",
+        "extra_val_2": "$3,658M",
         "live_price": 28.9
     },
     {
         "name": "Riot Platforms, Inc.",
         "ticker_or_country": "RIOT",
         "btc_holdings": "18,005",
-        "extra_val_1": "$5,763M",
-        "extra_val_2": "$6,272M",
+        "extra_val_1": "$5,780M",
+        "extra_val_2": "$6,289M",
         "live_price": 15.41
     },
     {
         "name": "Coinbase Global, Inc.",
         "ticker_or_country": "COIN",
         "btc_holdings": "14,548",
-        "extra_val_1": "$47,975M",
-        "extra_val_2": "$46,500M",
+        "extra_val_1": "$47,824M",
+        "extra_val_2": "$46,350M",
         "live_price": 189.24
     },
     {
         "name": "Hut 8 Mining Corp",
         "ticker_or_country": "HUT",
         "btc_holdings": "13,696",
-        "extra_val_1": "$6,163M",
-        "extra_val_2": "$6,520M",
+        "extra_val_1": "$6,159M",
+        "extra_val_2": "$6,516M",
         "live_price": 56.95
     },
     {
         "name": "Strive",
         "ticker_or_country": "ASST",
         "btc_holdings": "13,132",
-        "extra_val_1": "$826M",
-        "extra_val_2": "$1,195M",
+        "extra_val_1": "$838M",
+        "extra_val_2": "$1,206M",
         "live_price": 0.74
     },
     {
         "name": "CleanSpark, Inc.",
         "ticker_or_country": "CLSK",
         "btc_holdings": "13,099",
-        "extra_val_1": "$3,197M",
-        "extra_val_2": "$3,985M",
+        "extra_val_1": "$3,225M",
+        "extra_val_2": "$4,013M",
         "live_price": 11.18
     },
     {
         "name": "Trump Media & Technology Group Corp.",
         "ticker_or_country": "DJT",
         "btc_holdings": "11,542",
-        "extra_val_1": "$3,437M",
-        "extra_val_2": "$4,224M",
+        "extra_val_1": "$3,434M",
+        "extra_val_2": "$4,222M",
         "live_price": 12.38
     },
     {
         "name": "Tesla, Inc.",
         "ticker_or_country": "TSLA",
         "btc_holdings": "11,509",
-        "extra_val_1": "$1,404,959M",
-        "extra_val_2": "$1,400,460M",
+        "extra_val_1": "$1,399,871M",
+        "extra_val_2": "$1,395,372M",
         "live_price": 424.69
     },
     {
         "name": "Block, Inc.",
         "ticker_or_country": "XYZ",
         "btc_holdings": "8,780",
-        "extra_val_1": "$34,470M",
-        "extra_val_2": "$32,254M",
+        "extra_val_1": "$34,433M",
+        "extra_val_2": "$32,217M",
         "live_price": 60.58
     },
     {
@@ -123,24 +123,24 @@
         "name": "GD Culture Group",
         "ticker_or_country": "GDC",
         "btc_holdings": "7,500",
-        "extra_val_1": "$220M",
-        "extra_val_2": "$221M",
+        "extra_val_1": "$216M",
+        "extra_val_2": "$217M",
         "live_price": 4.05
     },
     {
         "name": "Galaxy Digital Holdings Ltd",
         "ticker_or_country": "GLXY",
         "btc_holdings": "6,894",
-        "extra_val_1": "$8,767M",
-        "extra_val_2": "$11,254M",
+        "extra_val_1": "$8,492M",
+        "extra_val_2": "$10,978M",
         "live_price": 26.35
     },
     {
         "name": "American Bitcoin Corp",
         "ticker_or_country": "ABTC",
         "btc_holdings": "5,843",
-        "extra_val_1": "$1,284M",
-        "extra_val_2": "$1,459M",
+        "extra_val_1": "$1,275M",
+        "extra_val_2": "$1,450M",
         "live_price": 1.45
     },
     {
@@ -156,7 +156,7 @@
         "ticker_or_country": "NAKA",
         "btc_holdings": "5,398",
         "extra_val_1": "$146M",
-        "extra_val_2": "$140M",
+        "extra_val_2": "$141M",
         "live_price": 0.35
     },
     {
@@ -171,8 +171,8 @@
         "name": "GameStop Corp.",
         "ticker_or_country": "GME",
         "btc_holdings": "4,710",
-        "extra_val_1": "$10,943M",
-        "extra_val_2": "$6,669M",
+        "extra_val_1": "$10,955M",
+        "extra_val_2": "$6,680M",
         "live_price": 25.85
     },
     {
@@ -187,7 +187,7 @@
         "name": "Empery Digital",
         "ticker_or_country": "EMPD",
         "btc_holdings": "4,081",
-        "extra_val_1": "$190M",
+        "extra_val_1": "$191M",
         "extra_val_2": "$266M",
         "live_price": 4.84
     },
@@ -195,16 +195,16 @@
         "name": "Gemini Space Station Inc",
         "ticker_or_country": "GEMI",
         "btc_holdings": "4,002",
-        "extra_val_1": "$322M",
-        "extra_val_2": "$271M",
+        "extra_val_1": "$324M",
+        "extra_val_2": "$273M",
         "live_price": 7.97
     },
     {
         "name": "OranjeBTC",
         "ticker_or_country": "OBTC3",
         "btc_holdings": "3,722",
-        "extra_val_1": "$208M",
-        "extra_val_2": "$231M",
+        "extra_val_1": "$207M",
+        "extra_val_2": "$230M",
         "live_price": 0
     },
     {
@@ -227,8 +227,8 @@
         "name": "The Smarter Web Company PLC",
         "ticker_or_country": "SWC",
         "btc_holdings": "2,674",
-        "extra_val_1": "$15,668M",
-        "extra_val_2": "$15,668M",
+        "extra_val_1": "$15,673M",
+        "extra_val_2": "$15,672M",
         "live_price": 0
     },
     {
@@ -251,7 +251,7 @@
         "name": "Sequans Communications S.A.",
         "ticker_or_country": "SQNS",
         "btc_holdings": "2,264",
-        "extra_val_1": "$100M",
+        "extra_val_1": "$99M",
         "extra_val_2": "$69M",
         "live_price": 4.23
     },
@@ -259,24 +259,24 @@
         "name": "HIVE Digital Technologies",
         "ticker_or_country": "HIVE",
         "btc_holdings": "2,201",
-        "extra_val_1": "$568M",
-        "extra_val_2": "$550M",
+        "extra_val_1": "$571M",
+        "extra_val_2": "$553M",
         "live_price": 2.48
     },
     {
         "name": "Core Scientific",
         "ticker_or_country": "CORZ",
         "btc_holdings": "2,116",
-        "extra_val_1": "$5,637M",
-        "extra_val_2": "$6,344M",
+        "extra_val_1": "$5,621M",
+        "extra_val_2": "$6,328M",
         "live_price": 18.15
     },
     {
         "name": "Bitfarms Ltd.",
         "ticker_or_country": "BITF",
         "btc_holdings": "1,827",
-        "extra_val_1": "$1,281M",
-        "extra_val_2": "$1,271M",
+        "extra_val_1": "$1,287M",
+        "extra_val_2": "$1,276M",
         "live_price": 2.28
     },
     {
@@ -291,32 +291,32 @@
         "name": "BITFUFU",
         "ticker_or_country": "FUFU",
         "btc_holdings": "1,780",
-        "extra_val_1": "$463M",
-        "extra_val_2": "$564M",
+        "extra_val_1": "$462M",
+        "extra_val_2": "$563M",
         "live_price": 2.73
     },
     {
         "name": "Canaan Inc.",
         "ticker_or_country": "CAN",
         "btc_holdings": "1,750",
-        "extra_val_1": "$3,188M",
-        "extra_val_2": "$3,169M",
+        "extra_val_1": "$3,204M",
+        "extra_val_2": "$3,184M",
         "live_price": 0.62
     },
     {
         "name": "NEXON Co., Ltd.",
         "ticker_or_country": "3659",
         "btc_holdings": "1,717",
-        "extra_val_1": "$18,726M",
-        "extra_val_2": "$15,142M",
+        "extra_val_1": "$18,733M",
+        "extra_val_2": "$15,148M",
         "live_price": 0
     },
     {
         "name": "Exodus Movement, Inc",
         "ticker_or_country": "EXOD",
         "btc_holdings": "1,704",
-        "extra_val_1": "$313M",
-        "extra_val_2": "$255M",
+        "extra_val_1": "$315M",
+        "extra_val_2": "$257M",
         "live_price": 11.75
     },
     {
@@ -331,16 +331,16 @@
         "name": "Bitdeer Technologies Group",
         "ticker_or_country": "BTDR",
         "btc_holdings": "1,508",
-        "extra_val_1": "$2,572M",
-        "extra_val_2": "$2,894M",
+        "extra_val_1": "$2,566M",
+        "extra_val_2": "$2,888M",
         "live_price": 13.29
     },
     {
         "name": "Cipher Mining",
         "ticker_or_country": "CIFR",
         "btc_holdings": "1,500",
-        "extra_val_1": "$6,040M",
-        "extra_val_2": "$6,167M",
+        "extra_val_1": "$6,093M",
+        "extra_val_2": "$6,219M",
         "live_price": 16.03
     },
     {
@@ -443,8 +443,8 @@
         "name": "Figma Inc",
         "ticker_or_country": "FIG",
         "btc_holdings": "767",
-        "extra_val_1": "$10,533M",
-        "extra_val_2": "$10,211M",
+        "extra_val_1": "$10,508M",
+        "extra_val_2": "$10,186M",
         "live_price": 24.18
     },
     {
@@ -459,8 +459,8 @@
         "name": "Aker ASA",
         "ticker_or_country": "AKER",
         "btc_holdings": "754",
-        "extra_val_1": "$6,986M",
-        "extra_val_2": "$10,149M",
+        "extra_val_1": "$6,988M",
+        "extra_val_2": "$10,151M",
         "live_price": 0
     },
     {
@@ -468,14 +468,14 @@
         "ticker_or_country": "IMG",
         "btc_holdings": "730",
         "extra_val_1": "$10M",
-        "extra_val_2": "$11M",
-        "live_price": 0.77
+        "extra_val_2": "$10M",
+        "live_price": 0.79
     },
     {
         "name": "Satsuma Technology",
         "ticker_or_country": "SATS",
         "btc_holdings": "620",
-        "extra_val_1": "$4,757M",
+        "extra_val_1": "$4,758M",
         "extra_val_2": "$-81M",
         "live_price": 116.0
     },
@@ -483,7 +483,7 @@
         "name": "MÃ©liuz",
         "ticker_or_country": "CASH3",
         "btc_holdings": "605",
-        "extra_val_1": "$67M",
+        "extra_val_1": "$66M",
         "extra_val_2": "$53M",
         "live_price": 0
     },
@@ -491,8 +491,8 @@
         "name": "MercadoLibre, Inc.",
         "ticker_or_country": "MELI",
         "btc_holdings": "570",
-        "extra_val_1": "$105,311M",
-        "extra_val_2": "$110,341M",
+        "extra_val_1": "$105,524M",
+        "extra_val_2": "$110,554M",
         "live_price": 2158.67
     },
     {
@@ -515,8 +515,8 @@
         "name": "Alliance Resource Partners, L.P.",
         "ticker_or_country": "ARLP",
         "btc_holdings": "541",
-        "extra_val_1": "$3,263M",
-        "extra_val_2": "$3,684M",
+        "extra_val_1": "$3,229M",
+        "extra_val_2": "$3,650M",
         "live_price": 25.0
     },
     {
@@ -548,14 +548,14 @@
         "ticker_or_country": "PRE",
         "btc_holdings": "502",
         "extra_val_1": "$257M",
-        "extra_val_2": "$232M",
+        "extra_val_2": "$231M",
         "live_price": 19.51
     },
     {
         "name": "3U Holding AG",
         "ticker_or_country": "UUU",
         "btc_holdings": "427",
-        "extra_val_1": "$178M",
+        "extra_val_1": "$179M",
         "extra_val_2": "$193M",
         "live_price": 4.99
     },
@@ -571,15 +571,15 @@
         "name": "Virtu Financial, Inc.",
         "ticker_or_country": "VIRT",
         "btc_holdings": "410",
-        "extra_val_1": "$5,846M",
-        "extra_val_2": "$12,534M",
+        "extra_val_1": "$5,870M",
+        "extra_val_2": "$12,558M",
         "live_price": 39.74
     },
     {
         "name": "DMG Blockchain Solutions Inc.",
         "ticker_or_country": "DMGI",
         "btc_holdings": "403",
-        "extra_val_1": "$37M",
+        "extra_val_1": "$38M",
         "extra_val_2": "$36M",
         "live_price": 0
     },
@@ -595,8 +595,8 @@
         "name": "Net Holding A.S.",
         "ticker_or_country": "NTHOL",
         "btc_holdings": "352",
-        "extra_val_1": "$508M",
-        "extra_val_2": "$635M",
+        "extra_val_1": "$509M",
+        "extra_val_2": "$636M",
         "live_price": 0
     },
     {
@@ -611,7 +611,7 @@
         "name": "Angel Studios, Inc.",
         "ticker_or_country": "ANGX",
         "btc_holdings": "303",
-        "extra_val_1": "$396M",
+        "extra_val_1": "$399M",
         "extra_val_2": "$633M",
         "live_price": 3.81
     },
@@ -619,8 +619,8 @@
         "name": "POP Culture Group Co., Ltd.",
         "ticker_or_country": "CPOP",
         "btc_holdings": "300",
-        "extra_val_1": "$34M",
-        "extra_val_2": "$82M",
+        "extra_val_1": "$33M",
+        "extra_val_2": "$81M",
         "live_price": 0.4
     },
     {
@@ -675,15 +675,15 @@
         "name": "Rumble Inc.",
         "ticker_or_country": "RUM",
         "btc_holdings": "211",
-        "extra_val_1": "$1,182M",
-        "extra_val_2": "$901M",
+        "extra_val_1": "$1,185M",
+        "extra_val_2": "$903M",
         "live_price": 5.56
     },
     {
         "name": "BitMine",
         "ticker_or_country": "BMNR",
         "btc_holdings": "192",
-        "extra_val_1": "$94M",
+        "extra_val_1": "$95M",
         "extra_val_2": "$95M",
         "live_price": 23.14
     },
@@ -739,7 +739,7 @@
         "name": "B HODL",
         "ticker_or_country": "HODL",
         "btc_holdings": "159",
-        "extra_val_1": "$1,585M",
+        "extra_val_1": "$1,586M",
         "extra_val_2": "â",
         "live_price": 22.2
     },
