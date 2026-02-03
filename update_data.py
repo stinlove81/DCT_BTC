@@ -15,13 +15,25 @@ def send_mail_report(is_success, error_msg=""):
     if not gmail_user or not gmail_pw:
         return
 
-    now = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
-    if is_success:
-        subject = f"[DAT MONITOR] ✅ 18시 업데이트 성공 ({now})"
-        body = f"데이터가 정상 수집 완료\n수집 시간: {now}"
+now = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+
+    if not is_success:
+        # ❌ 실패했을 때만 실행됩니다.
+        subject = f"[DAT MONITOR] ⚠️ 업데이트 실패 ({now})"
+        body = (
+            f"점검이 필요합니다. 쿠키가 만료되었을 가능성이 높습니다.\n\n"
+            f"❌ 상세 원인: {error_msg}\n"
+            f"⏰ 발생 시간: {now}\n\n"
+            f"사장님, 사이트에서 새 쿠키를 추출해 GitHub Secrets를 업데이트 해주세요!"
+        )
+        
+        # 메일 발송 함수 호출 (함수명은 사장님 코드에 맞춰 확인하세요)
+        send_alert_email(subject, body)
+        print(f"🚨 업데이트 실패 알림 메일을 발송했습니다. ({now})")
+
     else:
-        subject = f"[DAT MONITOR] ⚠️ 18시 업데이트 실패 ({now})"
-        body = f"쿠키 만료 의심, 점검 필요.\n\n❌ 상세 원인: {error_msg}\n발생 시간: {now}\n\n사이트에서 새 쿠키를 추출해 업데이트 해주세요."
+        # ✅ 성공 시에는 로그만 남기고 메일은 보내지 않습니다.
+        print(f"✅ 데이터 업데이트 성공 ({now}) - 알림 메일을 발송하지 않습니다.")
 
     try:
         msg = MIMEText(body)
@@ -116,3 +128,4 @@ def scrape_dat_final():
 if __name__ == "__main__":
 
     scrape_dat_final()
+
