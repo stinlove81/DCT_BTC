@@ -10,7 +10,7 @@ from datetime import datetime
 def send_mail_report(is_success, error_msg=""):
     gmail_user = os.getenv('MY_GMAIL_USER')
     gmail_pw = os.getenv('MY_GMAIL_PW')
-    target_email = "stin.yim@samsung.com"
+    target_email = "stinlove@kakao.com"
 
     if not gmail_user or not gmail_pw:
         return
@@ -114,4 +114,5 @@ def scrape_dat_final():
         send_mail_report(False, str(e))
 
 if __name__ == "__main__":
+
     scrape_dat_final()
