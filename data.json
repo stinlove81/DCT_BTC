@@ -179,8 +179,8 @@
         "name": "Boyaa Interactive International Limited",
         "ticker_or_country": "0434",
         "btc_holdings": "4,091",
-        "extra_val_1": "$306M",
-        "extra_val_2": "$300M",
+        "extra_val_1": "$307M",
+        "extra_val_2": "$301M",
         "live_price": 0
     },
     {
@@ -227,8 +227,8 @@
         "name": "The Smarter Web Company PLC",
         "ticker_or_country": "SWC",
         "btc_holdings": "2,674",
-        "extra_val_1": "$15,694M",
-        "extra_val_2": "$15,693M",
+        "extra_val_1": "$15,690M",
+        "extra_val_2": "$15,689M",
         "live_price": 0
     },
     {
@@ -307,8 +307,8 @@
         "name": "NEXON Co., Ltd.",
         "ticker_or_country": "3659",
         "btc_holdings": "1,717",
-        "extra_val_1": "$18,181M",
-        "extra_val_2": "$14,612M",
+        "extra_val_1": "$18,179M",
+        "extra_val_2": "$14,610M",
         "live_price": 0
     },
     {
@@ -355,8 +355,8 @@
         "name": "Remixpoint",
         "ticker_or_country": "3825",
         "btc_holdings": "1,411",
-        "extra_val_1": "$229M",
-        "extra_val_2": "$196M",
+        "extra_val_1": "$230M",
+        "extra_val_2": "$197M",
         "live_price": 0
     },
     {
@@ -451,16 +451,16 @@
         "name": "Convano Inc",
         "ticker_or_country": "6574",
         "btc_holdings": "763",
-        "extra_val_1": "$391M",
-        "extra_val_2": "$391M",
+        "extra_val_1": "$397M",
+        "extra_val_2": "$398M",
         "live_price": 0
     },
     {
         "name": "Aker ASA",
         "ticker_or_country": "AKER",
         "btc_holdings": "754",
-        "extra_val_1": "$6,998M",
-        "extra_val_2": "$10,167M",
+        "extra_val_1": "$6,997M",
+        "extra_val_2": "$10,164M",
         "live_price": 0
     },
     {
@@ -475,7 +475,7 @@
         "name": "Satsuma Technology",
         "ticker_or_country": "SATS",
         "btc_holdings": "620",
-        "extra_val_1": "$4,764M",
+        "extra_val_1": "$4,763M",
         "extra_val_2": "$-81M",
         "live_price": 116.0
     },
@@ -523,7 +523,7 @@
         "name": "Samara Asset Group",
         "ticker_or_country": "SRAG",
         "btc_holdings": "540",
-        "extra_val_1": "$234M",
+        "extra_val_1": "$233M",
         "extra_val_2": "$273M",
         "live_price": 0
     },
@@ -627,8 +627,8 @@
         "name": "S-Science",
         "ticker_or_country": "5721",
         "btc_holdings": "296",
-        "extra_val_1": "$129M",
-        "extra_val_2": "$115M",
+        "extra_val_1": "$128M",
+        "extra_val_2": "$114M",
         "live_price": 0
     },
     {
@@ -667,8 +667,8 @@
         "name": "WEMADE",
         "ticker_or_country": "112040",
         "btc_holdings": "223",
-        "extra_val_1": "$735M",
-        "extra_val_2": "$514M",
+        "extra_val_1": "$732M",
+        "extra_val_2": "$511M",
         "live_price": 0
     },
     {
@@ -755,7 +755,7 @@
         "name": "Parataxis Korea",
         "ticker_or_country": "288330",
         "btc_holdings": "150",
-        "extra_val_1": "$57M",
+        "extra_val_1": "$56M",
         "extra_val_2": "$46M",
         "live_price": 0
     },
