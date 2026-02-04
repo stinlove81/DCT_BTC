@@ -132,7 +132,7 @@
         "ticker_or_country": "GLXY",
         "btc_holdings": "6,894",
         "extra_val_1": "$8,537M",
-        "extra_val_2": "$11,024M",
+        "extra_val_2": "$11,025M",
         "live_price": 26.35
     },
     {
@@ -179,8 +179,8 @@
         "name": "Boyaa Interactive International Limited",
         "ticker_or_country": "0434",
         "btc_holdings": "4,091",
-        "extra_val_1": "$299M",
-        "extra_val_2": "$293M",
+        "extra_val_1": "$300M",
+        "extra_val_2": "$294M",
         "live_price": 0
     },
     {
@@ -227,8 +227,8 @@
         "name": "The Smarter Web Company PLC",
         "ticker_or_country": "SWC",
         "btc_holdings": "2,674",
-        "extra_val_1": "$15,682M",
-        "extra_val_2": "$15,681M",
+        "extra_val_1": "$15,683M",
+        "extra_val_2": "$15,682M",
         "live_price": 0
     },
     {
@@ -307,8 +307,8 @@
         "name": "NEXON Co., Ltd.",
         "ticker_or_country": "3659",
         "btc_holdings": "1,717",
-        "extra_val_1": "$18,598M",
-        "extra_val_2": "$15,024M",
+        "extra_val_1": "$18,777M",
+        "extra_val_2": "$15,203M",
         "live_price": 0
     },
     {
@@ -355,8 +355,8 @@
         "name": "Remixpoint",
         "ticker_or_country": "3825",
         "btc_holdings": "1,411",
-        "extra_val_1": "$229M",
-        "extra_val_2": "$196M",
+        "extra_val_1": "$228M",
+        "extra_val_2": "$195M",
         "live_price": 0
     },
     {
@@ -459,8 +459,8 @@
         "name": "Aker ASA",
         "ticker_or_country": "AKER",
         "btc_holdings": "754",
-        "extra_val_1": "$7,000M",
-        "extra_val_2": "$10,169M",
+        "extra_val_1": "$6,999M",
+        "extra_val_2": "$10,167M",
         "live_price": 0
     },
     {
@@ -612,7 +612,7 @@
         "ticker_or_country": "ANGX",
         "btc_holdings": "303",
         "extra_val_1": "$393M",
-        "extra_val_2": "$633M",
+        "extra_val_2": "$596M",
         "live_price": 3.81
     },
     {
@@ -667,8 +667,8 @@
         "name": "WEMADE",
         "ticker_or_country": "112040",
         "btc_holdings": "223",
-        "extra_val_1": "$746M",
-        "extra_val_2": "$525M",
+        "extra_val_1": "$743M",
+        "extra_val_2": "$522M",
         "live_price": 0
     },
     {
@@ -755,7 +755,7 @@
         "name": "Parataxis Korea",
         "ticker_or_country": "288330",
         "btc_holdings": "150",
-        "extra_val_1": "$57M",
+        "extra_val_1": "$58M",
         "extra_val_2": "$46M",
         "live_price": 0
     },
