@@ -227,15 +227,15 @@
         "name": "The Smarter Web Company PLC",
         "ticker_or_country": "SWC",
         "btc_holdings": "2,674",
-        "extra_val_1": "$15,682M",
-        "extra_val_2": "$15,681M",
+        "extra_val_1": "$15,684M",
+        "extra_val_2": "$15,683M",
         "live_price": 0
     },
     {
         "name": "DeFi Technologies",
         "ticker_or_country": "DEFI",
         "btc_holdings": "2,452",
-        "extra_val_1": "$255M",
+        "extra_val_1": "$256M",
         "extra_val_2": "$240M",
         "live_price": 88.27
     },
@@ -307,8 +307,8 @@
         "name": "NEXON Co., Ltd.",
         "ticker_or_country": "3659",
         "btc_holdings": "1,717",
-        "extra_val_1": "$18,426M",
-        "extra_val_2": "$14,857M",
+        "extra_val_1": "$18,247M",
+        "extra_val_2": "$14,676M",
         "live_price": 0
     },
     {
@@ -451,16 +451,16 @@
         "name": "Convano Inc",
         "ticker_or_country": "6574",
         "btc_holdings": "763",
-        "extra_val_1": "$397M",
-        "extra_val_2": "$398M",
+        "extra_val_1": "$394M",
+        "extra_val_2": "$395M",
         "live_price": 0
     },
     {
         "name": "Aker ASA",
         "ticker_or_country": "AKER",
         "btc_holdings": "754",
-        "extra_val_1": "$6,994M",
-        "extra_val_2": "$10,161M",
+        "extra_val_1": "$6,996M",
+        "extra_val_2": "$10,163M",
         "live_price": 0
     },
     {
@@ -579,7 +579,7 @@
         "name": "DMG Blockchain Solutions Inc.",
         "ticker_or_country": "DMGI",
         "btc_holdings": "403",
-        "extra_val_1": "$36M",
+        "extra_val_1": "$37M",
         "extra_val_2": "$35M",
         "live_price": 0
     },
@@ -627,8 +627,8 @@
         "name": "S-Science",
         "ticker_or_country": "5721",
         "btc_holdings": "296",
-        "extra_val_1": "$129M",
-        "extra_val_2": "$115M",
+        "extra_val_1": "$128M",
+        "extra_val_2": "$114M",
         "live_price": 0
     },
     {
@@ -643,7 +643,7 @@
         "name": "Bitplanet",
         "ticker_or_country": "049470",
         "btc_holdings": "265",
-        "extra_val_1": "$71M",
+        "extra_val_1": "$70M",
         "extra_val_2": "â",
         "live_price": 0
     },
@@ -667,8 +667,8 @@
         "name": "WEMADE",
         "ticker_or_country": "112040",
         "btc_holdings": "223",
-        "extra_val_1": "$731M",
-        "extra_val_2": "$510M",
+        "extra_val_1": "$730M",
+        "extra_val_2": "$509M",
         "live_price": 0
     },
     {
