@@ -211,7 +211,7 @@
         "name": "Bitcoin Group SE",
         "ticker_or_country": "ADE",
         "btc_holdings": "3,605",
-        "extra_val_1": "$161M",
+        "extra_val_1": "$160M",
         "extra_val_2": "$150M",
         "live_price": 0
     },
@@ -227,8 +227,8 @@
         "name": "The Smarter Web Company PLC",
         "ticker_or_country": "SWC",
         "btc_holdings": "2,674",
-        "extra_val_1": "$15,706M",
-        "extra_val_2": "$15,705M",
+        "extra_val_1": "$15,703M",
+        "extra_val_2": "$15,702M",
         "live_price": 0
     },
     {
@@ -307,8 +307,8 @@
         "name": "NEXON Co., Ltd.",
         "ticker_or_country": "3659",
         "btc_holdings": "1,717",
-        "extra_val_1": "$18,164M",
-        "extra_val_2": "$14,598M",
+        "extra_val_1": "$18,166M",
+        "extra_val_2": "$14,599M",
         "live_price": 0
     },
     {
@@ -459,8 +459,8 @@
         "name": "Aker ASA",
         "ticker_or_country": "AKER",
         "btc_holdings": "754",
-        "extra_val_1": "$7,010M",
-        "extra_val_2": "$10,180M",
+        "extra_val_1": "$6,980M",
+        "extra_val_2": "$10,148M",
         "live_price": 0
     },
     {
@@ -475,7 +475,7 @@
         "name": "Satsuma Technology",
         "ticker_or_country": "SATS",
         "btc_holdings": "620",
-        "extra_val_1": "$4,768M",
+        "extra_val_1": "$4,690M",
         "extra_val_2": "$-81M",
         "live_price": 116.0
     },
@@ -508,7 +508,7 @@
         "ticker_or_country": "377030",
         "btc_holdings": "551",
         "extra_val_1": "$40M",
-        "extra_val_2": "$67M",
+        "extra_val_2": "$68M",
         "live_price": 0
     },
     {
@@ -540,7 +540,7 @@
         "ticker_or_country": "DCC",
         "btc_holdings": "502",
         "extra_val_1": "$40M",
-        "extra_val_2": "$38M",
+        "extra_val_2": "$37M",
         "live_price": 0
     },
     {
@@ -595,8 +595,8 @@
         "name": "Net Holding A.S.",
         "ticker_or_country": "NTHOL",
         "btc_holdings": "352",
-        "extra_val_1": "$506M",
-        "extra_val_2": "$633M",
+        "extra_val_1": "$507M",
+        "extra_val_2": "$634M",
         "live_price": 0
     },
     {
@@ -660,7 +660,7 @@
         "ticker_or_country": "CS",
         "btc_holdings": "236",
         "extra_val_1": "$64M",
-        "extra_val_2": "$63M",
+        "extra_val_2": "$62M",
         "live_price": 0
     },
     {
@@ -731,8 +731,8 @@
         "name": "The Brooker Group",
         "ticker_or_country": "BTC",
         "btc_holdings": "165",
-        "extra_val_1": "$72M",
-        "extra_val_2": "$71M",
+        "extra_val_1": "$75M",
+        "extra_val_2": "$75M",
         "live_price": 34.86
     },
     {
@@ -771,7 +771,7 @@
         "name": "K33 AB",
         "ticker_or_country": "K33",
         "btc_holdings": "141",
-        "extra_val_1": "$28M",
+        "extra_val_1": "$29M",
         "extra_val_2": "$28M",
         "live_price": 0
     },
