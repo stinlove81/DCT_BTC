@@ -132,7 +132,7 @@
         "ticker_or_country": "GLXY",
         "btc_holdings": "6,894",
         "extra_val_1": "$8,537M",
-        "extra_val_2": "$11,025M",
+        "extra_val_2": "$11,026M",
         "live_price": 26.35
     },
     {
@@ -179,8 +179,8 @@
         "name": "Boyaa Interactive International Limited",
         "ticker_or_country": "0434",
         "btc_holdings": "4,091",
-        "extra_val_1": "$302M",
-        "extra_val_2": "$296M",
+        "extra_val_1": "$304M",
+        "extra_val_2": "$298M",
         "live_price": 0
     },
     {
@@ -219,7 +219,7 @@
         "name": "Capital B",
         "ticker_or_country": "ALCPB",
         "btc_holdings": "2,823",
-        "extra_val_1": "$180M",
+        "extra_val_1": "$181M",
         "extra_val_2": "$186M",
         "live_price": 0
     },
@@ -227,8 +227,8 @@
         "name": "The Smarter Web Company PLC",
         "ticker_or_country": "SWC",
         "btc_holdings": "2,674",
-        "extra_val_1": "$15,694M",
-        "extra_val_2": "$15,693M",
+        "extra_val_1": "$15,707M",
+        "extra_val_2": "$15,706M",
         "live_price": 0
     },
     {
@@ -307,8 +307,8 @@
         "name": "NEXON Co., Ltd.",
         "ticker_or_country": "3659",
         "btc_holdings": "1,717",
-        "extra_val_1": "$18,173M",
-        "extra_val_2": "$14,605M",
+        "extra_val_1": "$18,172M",
+        "extra_val_2": "$14,604M",
         "live_price": 0
     },
     {
@@ -356,7 +356,7 @@
         "ticker_or_country": "3825",
         "btc_holdings": "1,411",
         "extra_val_1": "$230M",
-        "extra_val_2": "$197M",
+        "extra_val_2": "$196M",
         "live_price": 0
     },
     {
@@ -459,8 +459,8 @@
         "name": "Aker ASA",
         "ticker_or_country": "AKER",
         "btc_holdings": "754",
-        "extra_val_1": "$6,992M",
-        "extra_val_2": "$10,157M",
+        "extra_val_1": "$7,004M",
+        "extra_val_2": "$10,175M",
         "live_price": 0
     },
     {
@@ -475,7 +475,7 @@
         "name": "Satsuma Technology",
         "ticker_or_country": "SATS",
         "btc_holdings": "620",
-        "extra_val_1": "$4,765M",
+        "extra_val_1": "$4,768M",
         "extra_val_2": "$-81M",
         "live_price": 116.0
     },
@@ -488,20 +488,20 @@
         "live_price": 0
     },
     {
+        "name": "Hyperscale Data",
+        "ticker_or_country": "GPUS",
+        "btc_holdings": "576",
+        "extra_val_1": "$39M",
+        "extra_val_2": "$127M",
+        "live_price": 0.2
+    },
+    {
         "name": "MercadoLibre, Inc.",
         "ticker_or_country": "MELI",
         "btc_holdings": "570",
         "extra_val_1": "$106,553M",
         "extra_val_2": "$111,583M",
         "live_price": 2158.67
-    },
-    {
-        "name": "Hyperscale Data",
-        "ticker_or_country": "GPUS",
-        "btc_holdings": "560",
-        "extra_val_1": "$39M",
-        "extra_val_2": "$127M",
-        "live_price": 0.2
     },
     {
         "name": "bitmax",
@@ -540,7 +540,7 @@
         "ticker_or_country": "DCC",
         "btc_holdings": "502",
         "extra_val_1": "$40M",
-        "extra_val_2": "$37M",
+        "extra_val_2": "$38M",
         "live_price": 0
     },
     {
@@ -707,8 +707,8 @@
         "name": "Coinsilium",
         "ticker_or_country": "COIN",
         "btc_holdings": "182",
-        "extra_val_1": "$843M",
-        "extra_val_2": "$838M",
+        "extra_val_1": "$844M",
+        "extra_val_2": "$839M",
         "live_price": 189.24
     },
     {
@@ -732,14 +732,14 @@
         "ticker_or_country": "BTC",
         "btc_holdings": "165",
         "extra_val_1": "$72M",
-        "extra_val_2": "$72M",
+        "extra_val_2": "$71M",
         "live_price": 34.86
     },
     {
         "name": "B HODL",
         "ticker_or_country": "HODL",
         "btc_holdings": "159",
-        "extra_val_1": "$1,588M",
+        "extra_val_1": "$1,589M",
         "extra_val_2": "â",
         "live_price": 22.2
     },
@@ -787,7 +787,7 @@
         "name": "Vaultz Capital",
         "ticker_or_country": "V3TC",
         "btc_holdings": "135",
-        "extra_val_1": "$82M",
+        "extra_val_1": "$75M",
         "extra_val_2": "$7M",
         "live_price": 0
     },
