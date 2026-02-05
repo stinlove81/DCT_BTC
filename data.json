@@ -179,8 +179,8 @@
         "name": "Boyaa Interactive International Limited",
         "ticker_or_country": "0434",
         "btc_holdings": "4,091",
-        "extra_val_1": "$287M",
-        "extra_val_2": "$281M",
+        "extra_val_1": "$286M",
+        "extra_val_2": "$280M",
         "live_price": 0
     },
     {
@@ -227,8 +227,8 @@
         "name": "The Smarter Web Company PLC",
         "ticker_or_country": "SWC",
         "btc_holdings": "2,674",
-        "extra_val_1": "$15,589M",
-        "extra_val_2": "$15,588M",
+        "extra_val_1": "$15,586M",
+        "extra_val_2": "$15,585M",
         "live_price": 0
     },
     {
@@ -307,8 +307,8 @@
         "name": "NEXON Co., Ltd.",
         "ticker_or_country": "3659",
         "btc_holdings": "1,717",
-        "extra_val_1": "$18,353M",
-        "extra_val_2": "$14,800M",
+        "extra_val_1": "$18,347M",
+        "extra_val_2": "$14,795M",
         "live_price": 0
     },
     {
@@ -459,8 +459,8 @@
         "name": "Aker ASA",
         "ticker_or_country": "AKER",
         "btc_holdings": "754",
-        "extra_val_1": "$6,915M",
-        "extra_val_2": "$10,059M",
+        "extra_val_1": "$6,917M",
+        "extra_val_2": "$10,062M",
         "live_price": 0
     },
     {
@@ -475,7 +475,7 @@
         "name": "Satsuma Technology",
         "ticker_or_country": "SATS",
         "btc_holdings": "620",
-        "extra_val_1": "$4,580M",
+        "extra_val_1": "$4,579M",
         "extra_val_2": "$-80M",
         "live_price": 115.38
     },
@@ -595,7 +595,7 @@
         "name": "Net Holding A.S.",
         "ticker_or_country": "NTHOL",
         "btc_holdings": "352",
-        "extra_val_1": "$504M",
+        "extra_val_1": "$505M",
         "extra_val_2": "$631M",
         "live_price": 0
     },
@@ -667,7 +667,7 @@
         "name": "WEMADE",
         "ticker_or_country": "112040",
         "btc_holdings": "223",
-        "extra_val_1": "$709M",
+        "extra_val_1": "$708M",
         "extra_val_2": "$489M",
         "live_price": 0
     },
@@ -732,14 +732,14 @@
         "ticker_or_country": "BTC",
         "btc_holdings": "165",
         "extra_val_1": "$75M",
-        "extra_val_2": "$75M",
+        "extra_val_2": "$74M",
         "live_price": 33.5
     },
     {
         "name": "B HODL",
         "ticker_or_country": "HODL",
         "btc_holdings": "159",
-        "extra_val_1": "$1,416M",
+        "extra_val_1": "$1,415M",
         "extra_val_2": "â",
         "live_price": 21.35
     },
