@@ -228,7 +228,7 @@
         "ticker_or_country": "SWC",
         "btc_holdings": "2,674",
         "extra_val_1": "$15,591M",
-        "extra_val_2": "$15,591M",
+        "extra_val_2": "$15,590M",
         "live_price": 0
     },
     {
@@ -307,8 +307,8 @@
         "name": "NEXON Co., Ltd.",
         "ticker_or_country": "3659",
         "btc_holdings": "1,717",
-        "extra_val_1": "$18,516M",
-        "extra_val_2": "$14,958M",
+        "extra_val_1": "$18,442M",
+        "extra_val_2": "$14,885M",
         "live_price": 0
     },
     {
@@ -355,7 +355,7 @@
         "name": "Remixpoint",
         "ticker_or_country": "3825",
         "btc_holdings": "1,411",
-        "extra_val_1": "$220M",
+        "extra_val_1": "$219M",
         "extra_val_2": "$186M",
         "live_price": 0
     },
@@ -451,16 +451,16 @@
         "name": "Convano Inc",
         "ticker_or_country": "6574",
         "btc_holdings": "763",
-        "extra_val_1": "$406M",
-        "extra_val_2": "$406M",
+        "extra_val_1": "$409M",
+        "extra_val_2": "$410M",
         "live_price": 0
     },
     {
         "name": "Aker ASA",
         "ticker_or_country": "AKER",
         "btc_holdings": "754",
-        "extra_val_1": "$6,908M",
-        "extra_val_2": "$10,049M",
+        "extra_val_1": "$6,910M",
+        "extra_val_2": "$10,052M",
         "live_price": 0
     },
     {
@@ -475,7 +475,7 @@
         "name": "Satsuma Technology",
         "ticker_or_country": "SATS",
         "btc_holdings": "620",
-        "extra_val_1": "$4,581M",
+        "extra_val_1": "$4,580M",
         "extra_val_2": "$-80M",
         "live_price": 115.38
     },
@@ -595,7 +595,7 @@
         "name": "Net Holding A.S.",
         "ticker_or_country": "NTHOL",
         "btc_holdings": "352",
-        "extra_val_1": "$505M",
+        "extra_val_1": "$504M",
         "extra_val_2": "$631M",
         "live_price": 0
     },
@@ -627,8 +627,8 @@
         "name": "S-Science",
         "ticker_or_country": "5721",
         "btc_holdings": "296",
-        "extra_val_1": "$130M",
-        "extra_val_2": "$116M",
+        "extra_val_1": "$131M",
+        "extra_val_2": "$117M",
         "live_price": 0
     },
     {
@@ -667,8 +667,8 @@
         "name": "WEMADE",
         "ticker_or_country": "112040",
         "btc_holdings": "223",
-        "extra_val_1": "$711M",
-        "extra_val_2": "$492M",
+        "extra_val_1": "$710M",
+        "extra_val_2": "$491M",
         "live_price": 0
     },
     {
