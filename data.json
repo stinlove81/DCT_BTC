@@ -3,16 +3,16 @@
         "name": "Strategy",
         "ticker_or_country": "MSTR",
         "btc_holdings": "713,502",
-        "extra_val_1": "$42,257M",
-        "extra_val_2": "$58,812M",
+        "extra_val_1": "$42,315M",
+        "extra_val_2": "$58,870M",
         "live_price": 132.06
     },
     {
         "name": "MARA Holdings, Inc.",
         "ticker_or_country": "MARA",
         "btc_holdings": "53,250",
-        "extra_val_1": "$3,118M",
-        "extra_val_2": "$5,931M",
+        "extra_val_1": "$3,114M",
+        "extra_val_2": "$5,928M",
         "live_price": 8.92
     },
     {
@@ -51,16 +51,16 @@
         "name": "Riot Platforms, Inc.",
         "ticker_or_country": "RIOT",
         "btc_holdings": "18,005",
-        "extra_val_1": "$5,216M",
-        "extra_val_2": "$5,725M",
+        "extra_val_1": "$5,214M",
+        "extra_val_2": "$5,723M",
         "live_price": 15.2
     },
     {
         "name": "Coinbase Global, Inc.",
         "ticker_or_country": "COIN",
         "btc_holdings": "14,548",
-        "extra_val_1": "$44,892M",
-        "extra_val_2": "$43,418M",
+        "extra_val_1": "$44,879M",
+        "extra_val_2": "$43,404M",
         "live_price": 178.3
     },
     {
@@ -99,8 +99,8 @@
         "name": "Tesla, Inc.",
         "ticker_or_country": "TSLA",
         "btc_holdings": "11,509",
-        "extra_val_1": "$1,355,288M",
-        "extra_val_2": "$1,350,789M",
+        "extra_val_1": "$1,355,221M",
+        "extra_val_2": "$1,350,722M",
         "live_price": 420.74
     },
     {
@@ -227,8 +227,8 @@
         "name": "The Smarter Web Company PLC",
         "ticker_or_country": "SWC",
         "btc_holdings": "2,674",
-        "extra_val_1": "$15,619M",
-        "extra_val_2": "$15,618M",
+        "extra_val_1": "$15,620M",
+        "extra_val_2": "$15,619M",
         "live_price": 0
     },
     {
@@ -307,8 +307,8 @@
         "name": "NEXON Co., Ltd.",
         "ticker_or_country": "3659",
         "btc_holdings": "1,717",
-        "extra_val_1": "$18,676M",
-        "extra_val_2": "$15,117M",
+        "extra_val_1": "$18,574M",
+        "extra_val_2": "$15,017M",
         "live_price": 0
     },
     {
@@ -451,7 +451,7 @@
         "name": "Convano Inc",
         "ticker_or_country": "6574",
         "btc_holdings": "763",
-        "extra_val_1": "$416M",
+        "extra_val_1": "$415M",
         "extra_val_2": "$416M",
         "live_price": 0
     },
@@ -460,7 +460,7 @@
         "ticker_or_country": "AKER",
         "btc_holdings": "754",
         "extra_val_1": "$6,933M",
-        "extra_val_2": "$10,086M",
+        "extra_val_2": "$10,085M",
         "live_price": 0
     },
     {
@@ -596,7 +596,7 @@
         "ticker_or_country": "NTHOL",
         "btc_holdings": "352",
         "extra_val_1": "$505M",
-        "extra_val_2": "$631M",
+        "extra_val_2": "$632M",
         "live_price": 0
     },
     {
@@ -627,8 +627,8 @@
         "name": "S-Science",
         "ticker_or_country": "5721",
         "btc_holdings": "296",
-        "extra_val_1": "$134M",
-        "extra_val_2": "$120M",
+        "extra_val_1": "$135M",
+        "extra_val_2": "$122M",
         "live_price": 0
     },
     {
@@ -755,7 +755,7 @@
         "name": "Parataxis Korea",
         "ticker_or_country": "288330",
         "btc_holdings": "150",
-        "extra_val_1": "$55M",
+        "extra_val_1": "$54M",
         "extra_val_2": "$44M",
         "live_price": 0
     },
