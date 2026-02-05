@@ -132,7 +132,7 @@
         "ticker_or_country": "GLXY",
         "btc_holdings": "6,894",
         "extra_val_1": "$7,939M",
-        "extra_val_2": "$10,418M",
+        "extra_val_2": "$10,419M",
         "live_price": 21.98
     },
     {
@@ -179,8 +179,8 @@
         "name": "Boyaa Interactive International Limited",
         "ticker_or_country": "0434",
         "btc_holdings": "4,091",
-        "extra_val_1": "$289M",
-        "extra_val_2": "$283M",
+        "extra_val_1": "$288M",
+        "extra_val_2": "$282M",
         "live_price": 0
     },
     {
@@ -212,7 +212,7 @@
         "ticker_or_country": "ADE",
         "btc_holdings": "3,605",
         "extra_val_1": "$159M",
-        "extra_val_2": "$148M",
+        "extra_val_2": "$149M",
         "live_price": 0
     },
     {
@@ -227,8 +227,8 @@
         "name": "The Smarter Web Company PLC",
         "ticker_or_country": "SWC",
         "btc_holdings": "2,674",
-        "extra_val_1": "$15,580M",
-        "extra_val_2": "$15,579M",
+        "extra_val_1": "$15,583M",
+        "extra_val_2": "$15,582M",
         "live_price": 0
     },
     {
@@ -236,7 +236,7 @@
         "ticker_or_country": "DEFI",
         "btc_holdings": "2,452",
         "extra_val_1": "$252M",
-        "extra_val_2": "$236M",
+        "extra_val_2": "$237M",
         "live_price": 86.26
     },
     {
@@ -459,8 +459,8 @@
         "name": "Aker ASA",
         "ticker_or_country": "AKER",
         "btc_holdings": "754",
-        "extra_val_1": "$6,909M",
-        "extra_val_2": "$10,051M",
+        "extra_val_1": "$6,916M",
+        "extra_val_2": "$10,061M",
         "live_price": 0
     },
     {
@@ -475,7 +475,7 @@
         "name": "Satsuma Technology",
         "ticker_or_country": "SATS",
         "btc_holdings": "620",
-        "extra_val_1": "$4,577M",
+        "extra_val_1": "$4,578M",
         "extra_val_2": "$-80M",
         "live_price": 115.38
     },
@@ -523,7 +523,7 @@
         "name": "Samara Asset Group",
         "ticker_or_country": "SRAG",
         "btc_holdings": "540",
-        "extra_val_1": "$241M",
+        "extra_val_1": "$242M",
         "extra_val_2": "$281M",
         "live_price": 0
     },
@@ -595,8 +595,8 @@
         "name": "Net Holding A.S.",
         "ticker_or_country": "NTHOL",
         "btc_holdings": "352",
-        "extra_val_1": "$504M",
-        "extra_val_2": "$631M",
+        "extra_val_1": "$503M",
+        "extra_val_2": "$630M",
         "live_price": 0
     },
     {
@@ -732,7 +732,7 @@
         "ticker_or_country": "BTC",
         "btc_holdings": "165",
         "extra_val_1": "$75M",
-        "extra_val_2": "$74M",
+        "extra_val_2": "$75M",
         "live_price": 33.5
     },
     {
