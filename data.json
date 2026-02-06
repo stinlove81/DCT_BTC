@@ -179,8 +179,8 @@
         "name": "Boyaa Interactive International Limited",
         "ticker_or_country": "0434",
         "btc_holdings": "4,091",
-        "extra_val_1": "$271M",
-        "extra_val_2": "$265M",
+        "extra_val_1": "$267M",
+        "extra_val_2": "$260M",
         "live_price": 0
     },
     {
@@ -227,8 +227,8 @@
         "name": "The Smarter Web Company PLC",
         "ticker_or_country": "SWC",
         "btc_holdings": "2,674",
-        "extra_val_1": "$15,479M",
-        "extra_val_2": "$15,478M",
+        "extra_val_1": "$15,484M",
+        "extra_val_2": "$15,484M",
         "live_price": 0
     },
     {
@@ -307,8 +307,8 @@
         "name": "NEXON Co., Ltd.",
         "ticker_or_country": "3659",
         "btc_holdings": "1,717",
-        "extra_val_1": "$18,069M",
-        "extra_val_2": "$14,504M",
+        "extra_val_1": "$18,081M",
+        "extra_val_2": "$14,517M",
         "live_price": 0
     },
     {
@@ -347,8 +347,8 @@
         "name": "Anap Holdings Inc.",
         "ticker_or_country": "3189",
         "btc_holdings": "1,417",
-        "extra_val_1": "$59M",
-        "extra_val_2": "$91M",
+        "extra_val_1": "$58M",
+        "extra_val_2": "$90M",
         "live_price": 0
     },
     {
@@ -459,8 +459,8 @@
         "name": "Aker ASA",
         "ticker_or_country": "AKER",
         "btc_holdings": "754",
-        "extra_val_1": "$6,724M",
-        "extra_val_2": "$9,830M",
+        "extra_val_1": "$6,725M",
+        "extra_val_2": "$9,832M",
         "live_price": 0
     },
     {
@@ -475,7 +475,7 @@
         "name": "Satsuma Technology",
         "ticker_or_country": "SATS",
         "btc_holdings": "620",
-        "extra_val_1": "$4,396M",
+        "extra_val_1": "$4,398M",
         "extra_val_2": "$-80M",
         "live_price": 111.0
     },
@@ -508,7 +508,7 @@
         "ticker_or_country": "377030",
         "btc_holdings": "551",
         "extra_val_1": "$35M",
-        "extra_val_2": "$62M",
+        "extra_val_2": "$61M",
         "live_price": 0
     },
     {
@@ -523,7 +523,7 @@
         "name": "Samara Asset Group",
         "ticker_or_country": "SRAG",
         "btc_holdings": "540",
-        "extra_val_1": "$219M",
+        "extra_val_1": "$220M",
         "extra_val_2": "$259M",
         "live_price": 0
     },
@@ -643,7 +643,7 @@
         "name": "Bitplanet",
         "ticker_or_country": "049470",
         "btc_holdings": "265",
-        "extra_val_1": "$62M",
+        "extra_val_1": "$63M",
         "extra_val_2": "â",
         "live_price": 0
     },
@@ -667,8 +667,8 @@
         "name": "WEMADE",
         "ticker_or_country": "112040",
         "btc_holdings": "223",
-        "extra_val_1": "$685M",
-        "extra_val_2": "$467M",
+        "extra_val_1": "$681M",
+        "extra_val_2": "$462M",
         "live_price": 0
     },
     {
@@ -708,7 +708,7 @@
         "ticker_or_country": "COIN",
         "btc_holdings": "182",
         "extra_val_1": "$721M",
-        "extra_val_2": "$716M",
+        "extra_val_2": "$717M",
         "live_price": 167.4
     },
     {
@@ -723,7 +723,7 @@
         "name": "Matador Technologies Inc",
         "ticker_or_country": "MATA",
         "btc_holdings": "175",
-        "extra_val_1": "$12M",
+        "extra_val_1": "$13M",
         "extra_val_2": "$9M",
         "live_price": 0
     },
@@ -739,7 +739,7 @@
         "name": "B HODL",
         "ticker_or_country": "HODL",
         "btc_holdings": "160",
-        "extra_val_1": "$1,514M",
+        "extra_val_1": "$1,515M",
         "extra_val_2": "â",
         "live_price": 20.68
     },
