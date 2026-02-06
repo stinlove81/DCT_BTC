@@ -228,7 +228,7 @@
         "ticker_or_country": "SWC",
         "btc_holdings": "2,674",
         "extra_val_1": "$15,498M",
-        "extra_val_2": "$15,498M",
+        "extra_val_2": "$15,497M",
         "live_price": 0
     },
     {
@@ -307,8 +307,8 @@
         "name": "NEXON Co., Ltd.",
         "ticker_or_country": "3659",
         "btc_holdings": "1,717",
-        "extra_val_1": "$18,218M",
-        "extra_val_2": "$14,657M",
+        "extra_val_1": "$18,269M",
+        "extra_val_2": "$14,707M",
         "live_price": 0
     },
     {
@@ -347,16 +347,16 @@
         "name": "Anap Holdings Inc.",
         "ticker_or_country": "3189",
         "btc_holdings": "1,417",
-        "extra_val_1": "$58M",
-        "extra_val_2": "$90M",
+        "extra_val_1": "$59M",
+        "extra_val_2": "$91M",
         "live_price": 0
     },
     {
         "name": "Remixpoint",
         "ticker_or_country": "3825",
         "btc_holdings": "1,411",
-        "extra_val_1": "$211M",
-        "extra_val_2": "$178M",
+        "extra_val_1": "$212M",
+        "extra_val_2": "$179M",
         "live_price": 0
     },
     {
@@ -451,16 +451,16 @@
         "name": "Convano Inc",
         "ticker_or_country": "6574",
         "btc_holdings": "763",
-        "extra_val_1": "$396M",
-        "extra_val_2": "$397M",
+        "extra_val_1": "$400M",
+        "extra_val_2": "$400M",
         "live_price": 0
     },
     {
         "name": "Aker ASA",
         "ticker_or_country": "AKER",
         "btc_holdings": "754",
-        "extra_val_1": "$6,736M",
-        "extra_val_2": "$9,848M",
+        "extra_val_1": "$6,737M",
+        "extra_val_2": "$9,849M",
         "live_price": 0
     },
     {
@@ -475,7 +475,7 @@
         "name": "Satsuma Technology",
         "ticker_or_country": "SATS",
         "btc_holdings": "620",
-        "extra_val_1": "$4,402M",
+        "extra_val_1": "$4,401M",
         "extra_val_2": "$-80M",
         "live_price": 111.0
     },
@@ -508,7 +508,7 @@
         "ticker_or_country": "377030",
         "btc_holdings": "551",
         "extra_val_1": "$35M",
-        "extra_val_2": "$62M",
+        "extra_val_2": "$61M",
         "live_price": 0
     },
     {
@@ -667,8 +667,8 @@
         "name": "WEMADE",
         "ticker_or_country": "112040",
         "btc_holdings": "223",
-        "extra_val_1": "$686M",
-        "extra_val_2": "$468M",
+        "extra_val_1": "$684M",
+        "extra_val_2": "$465M",
         "live_price": 0
     },
     {
@@ -731,8 +731,8 @@
         "name": "The Brooker Group",
         "ticker_or_country": "BTC",
         "btc_holdings": "165",
-        "extra_val_1": "$72M",
-        "extra_val_2": "$71M",
+        "extra_val_1": "$75M",
+        "extra_val_2": "$75M",
         "live_price": 32.32
     },
     {
