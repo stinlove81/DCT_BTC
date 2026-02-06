@@ -211,16 +211,16 @@
         "name": "Bitcoin Group SE",
         "ticker_or_country": "ADE",
         "btc_holdings": "3,605",
-        "extra_val_1": "$154M",
-        "extra_val_2": "$143M",
+        "extra_val_1": "$155M",
+        "extra_val_2": "$144M",
         "live_price": 0
     },
     {
         "name": "Capital B",
         "ticker_or_country": "ALCPB",
         "btc_holdings": "2,823",
-        "extra_val_1": "$163M",
-        "extra_val_2": "$168M",
+        "extra_val_1": "$162M",
+        "extra_val_2": "$167M",
         "live_price": 0
     },
     {
@@ -228,7 +228,7 @@
         "ticker_or_country": "SWC",
         "btc_holdings": "2,674",
         "extra_val_1": "$15,520M",
-        "extra_val_2": "$15,520M",
+        "extra_val_2": "$15,519M",
         "live_price": 0
     },
     {
@@ -307,8 +307,8 @@
         "name": "NEXON Co., Ltd.",
         "ticker_or_country": "3659",
         "btc_holdings": "1,717",
-        "extra_val_1": "$18,401M",
-        "extra_val_2": "$14,842M",
+        "extra_val_1": "$18,393M",
+        "extra_val_2": "$14,836M",
         "live_price": 0
     },
     {
@@ -451,7 +451,7 @@
         "name": "Convano Inc",
         "ticker_or_country": "6574",
         "btc_holdings": "763",
-        "extra_val_1": "$403M",
+        "extra_val_1": "$402M",
         "extra_val_2": "$403M",
         "live_price": 0
     },
@@ -459,8 +459,8 @@
         "name": "Aker ASA",
         "ticker_or_country": "AKER",
         "btc_holdings": "754",
-        "extra_val_1": "$6,777M",
-        "extra_val_2": "$9,901M",
+        "extra_val_1": "$6,746M",
+        "extra_val_2": "$9,869M",
         "live_price": 0
     },
     {
@@ -475,7 +475,7 @@
         "name": "Satsuma Technology",
         "ticker_or_country": "SATS",
         "btc_holdings": "620",
-        "extra_val_1": "$4,408M",
+        "extra_val_1": "$4,332M",
         "extra_val_2": "$-80M",
         "live_price": 111.0
     },
@@ -595,7 +595,7 @@
         "name": "Net Holding A.S.",
         "ticker_or_country": "NTHOL",
         "btc_holdings": "352",
-        "extra_val_1": "$496M",
+        "extra_val_1": "$497M",
         "extra_val_2": "$623M",
         "live_price": 0
     },
@@ -643,7 +643,7 @@
         "name": "Bitplanet",
         "ticker_or_country": "049470",
         "btc_holdings": "265",
-        "extra_val_1": "$65M",
+        "extra_val_1": "$64M",
         "extra_val_2": "â",
         "live_price": 0
     },
@@ -707,8 +707,8 @@
         "name": "Coinsilium",
         "ticker_or_country": "COIN",
         "btc_holdings": "182",
-        "extra_val_1": "$786M",
-        "extra_val_2": "$781M",
+        "extra_val_1": "$771M",
+        "extra_val_2": "$767M",
         "live_price": 167.4
     },
     {
@@ -739,7 +739,7 @@
         "name": "B HODL",
         "ticker_or_country": "HODL",
         "btc_holdings": "160",
-        "extra_val_1": "$1,518M",
+        "extra_val_1": "$1,331M",
         "extra_val_2": "â",
         "live_price": 20.68
     },
@@ -771,8 +771,8 @@
         "name": "K33 AB",
         "ticker_or_country": "K33",
         "btc_holdings": "141",
-        "extra_val_1": "$28M",
-        "extra_val_2": "$27M",
+        "extra_val_1": "$27M",
+        "extra_val_2": "$26M",
         "live_price": 0
     },
     {
@@ -787,7 +787,7 @@
         "name": "Vaultz Capital",
         "ticker_or_country": "V3TC",
         "btc_holdings": "135",
-        "extra_val_1": "$66M",
+        "extra_val_1": "$68M",
         "extra_val_2": "$6M",
         "live_price": 0
     },
