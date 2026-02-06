@@ -132,7 +132,7 @@
         "ticker_or_country": "GLXY",
         "btc_holdings": "6,894",
         "extra_val_1": "$6,677M",
-        "extra_val_2": "$9,157M",
+        "extra_val_2": "$9,155M",
         "live_price": 20.24
     },
     {
@@ -179,8 +179,8 @@
         "name": "Boyaa Interactive International Limited",
         "ticker_or_country": "0434",
         "btc_holdings": "4,091",
-        "extra_val_1": "$277M",
-        "extra_val_2": "$271M",
+        "extra_val_1": "$275M",
+        "extra_val_2": "$269M",
         "live_price": 0
     },
     {
@@ -212,7 +212,7 @@
         "ticker_or_country": "ADE",
         "btc_holdings": "3,605",
         "extra_val_1": "$149M",
-        "extra_val_2": "$139M",
+        "extra_val_2": "$138M",
         "live_price": 0
     },
     {
@@ -227,8 +227,8 @@
         "name": "The Smarter Web Company PLC",
         "ticker_or_country": "SWC",
         "btc_holdings": "2,674",
-        "extra_val_1": "$15,528M",
-        "extra_val_2": "$15,528M",
+        "extra_val_1": "$15,521M",
+        "extra_val_2": "$15,520M",
         "live_price": 0
     },
     {
@@ -307,8 +307,8 @@
         "name": "NEXON Co., Ltd.",
         "ticker_or_country": "3659",
         "btc_holdings": "1,717",
-        "extra_val_1": "$18,405M",
-        "extra_val_2": "$14,845M",
+        "extra_val_1": "$18,416M",
+        "extra_val_2": "$14,855M",
         "live_price": 0
     },
     {
@@ -452,15 +452,15 @@
         "ticker_or_country": "6574",
         "btc_holdings": "763",
         "extra_val_1": "$403M",
-        "extra_val_2": "$403M",
+        "extra_val_2": "$404M",
         "live_price": 0
     },
     {
         "name": "Aker ASA",
         "ticker_or_country": "AKER",
         "btc_holdings": "754",
-        "extra_val_1": "$6,753M",
-        "extra_val_2": "$9,872M",
+        "extra_val_1": "$6,743M",
+        "extra_val_2": "$9,858M",
         "live_price": 0
     },
     {
@@ -475,7 +475,7 @@
         "name": "Satsuma Technology",
         "ticker_or_country": "SATS",
         "btc_holdings": "620",
-        "extra_val_1": "$4,410M",
+        "extra_val_1": "$4,408M",
         "extra_val_2": "$-80M",
         "live_price": 111.0
     },
@@ -595,8 +595,8 @@
         "name": "Net Holding A.S.",
         "ticker_or_country": "NTHOL",
         "btc_holdings": "352",
-        "extra_val_1": "$500M",
-        "extra_val_2": "$627M",
+        "extra_val_1": "$499M",
+        "extra_val_2": "$626M",
         "live_price": 0
     },
     {
@@ -627,7 +627,7 @@
         "name": "S-Science",
         "ticker_or_country": "5721",
         "btc_holdings": "296",
-        "extra_val_1": "$126M",
+        "extra_val_1": "$127M",
         "extra_val_2": "$113M",
         "live_price": 0
     },
@@ -643,7 +643,7 @@
         "name": "Bitplanet",
         "ticker_or_country": "049470",
         "btc_holdings": "265",
-        "extra_val_1": "$65M",
+        "extra_val_1": "$64M",
         "extra_val_2": "â",
         "live_price": 0
     },
@@ -708,7 +708,7 @@
         "ticker_or_country": "COIN",
         "btc_holdings": "182",
         "extra_val_1": "$723M",
-        "extra_val_2": "$719M",
+        "extra_val_2": "$718M",
         "live_price": 167.4
     },
     {
@@ -739,7 +739,7 @@
         "name": "B HODL",
         "ticker_or_country": "HODL",
         "btc_holdings": "160",
-        "extra_val_1": "$1,519M",
+        "extra_val_1": "$1,518M",
         "extra_val_2": "â",
         "live_price": 20.68
     },
