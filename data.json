@@ -132,7 +132,7 @@
         "ticker_or_country": "GLXY",
         "btc_holdings": "6,894",
         "extra_val_1": "$6,677M",
-        "extra_val_2": "$9,156M",
+        "extra_val_2": "$9,157M",
         "live_price": 20.24
     },
     {
@@ -179,8 +179,8 @@
         "name": "Boyaa Interactive International Limited",
         "ticker_or_country": "0434",
         "btc_holdings": "4,091",
-        "extra_val_1": "$275M",
-        "extra_val_2": "$269M",
+        "extra_val_1": "$277M",
+        "extra_val_2": "$271M",
         "live_price": 0
     },
     {
@@ -228,7 +228,7 @@
         "ticker_or_country": "SWC",
         "btc_holdings": "2,674",
         "extra_val_1": "$15,528M",
-        "extra_val_2": "$15,527M",
+        "extra_val_2": "$15,528M",
         "live_price": 0
     },
     {
@@ -307,8 +307,8 @@
         "name": "NEXON Co., Ltd.",
         "ticker_or_country": "3659",
         "btc_holdings": "1,717",
-        "extra_val_1": "$18,373M",
-        "extra_val_2": "$14,815M",
+        "extra_val_1": "$18,405M",
+        "extra_val_2": "$14,845M",
         "live_price": 0
     },
     {
@@ -347,16 +347,16 @@
         "name": "Anap Holdings Inc.",
         "ticker_or_country": "3189",
         "btc_holdings": "1,417",
-        "extra_val_1": "$58M",
-        "extra_val_2": "$91M",
+        "extra_val_1": "$59M",
+        "extra_val_2": "$92M",
         "live_price": 0
     },
     {
         "name": "Remixpoint",
         "ticker_or_country": "3825",
         "btc_holdings": "1,411",
-        "extra_val_1": "$210M",
-        "extra_val_2": "$177M",
+        "extra_val_1": "$209M",
+        "extra_val_2": "$175M",
         "live_price": 0
     },
     {
@@ -451,16 +451,16 @@
         "name": "Convano Inc",
         "ticker_or_country": "6574",
         "btc_holdings": "763",
-        "extra_val_1": "$399M",
-        "extra_val_2": "$400M",
+        "extra_val_1": "$403M",
+        "extra_val_2": "$403M",
         "live_price": 0
     },
     {
         "name": "Aker ASA",
         "ticker_or_country": "AKER",
         "btc_holdings": "754",
-        "extra_val_1": "$6,752M",
-        "extra_val_2": "$9,871M",
+        "extra_val_1": "$6,753M",
+        "extra_val_2": "$9,872M",
         "live_price": 0
     },
     {
@@ -643,7 +643,7 @@
         "name": "Bitplanet",
         "ticker_or_country": "049470",
         "btc_holdings": "265",
-        "extra_val_1": "$64M",
+        "extra_val_1": "$65M",
         "extra_val_2": "â",
         "live_price": 0
     },
@@ -667,8 +667,8 @@
         "name": "WEMADE",
         "ticker_or_country": "112040",
         "btc_holdings": "223",
-        "extra_val_1": "$686M",
-        "extra_val_2": "$467M",
+        "extra_val_1": "$687M",
+        "extra_val_2": "$468M",
         "live_price": 0
     },
     {
