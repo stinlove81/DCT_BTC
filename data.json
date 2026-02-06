@@ -227,8 +227,8 @@
         "name": "The Smarter Web Company PLC",
         "ticker_or_country": "SWC",
         "btc_holdings": "2,674",
-        "extra_val_1": "$15,532M",
-        "extra_val_2": "$15,531M",
+        "extra_val_1": "$15,531M",
+        "extra_val_2": "$15,530M",
         "live_price": 0
     },
     {
@@ -307,8 +307,8 @@
         "name": "NEXON Co., Ltd.",
         "ticker_or_country": "3659",
         "btc_holdings": "1,717",
-        "extra_val_1": "$18,317M",
-        "extra_val_2": "$14,759M",
+        "extra_val_1": "$18,313M",
+        "extra_val_2": "$14,755M",
         "live_price": 0
     },
     {
@@ -451,8 +451,8 @@
         "name": "Convano Inc",
         "ticker_or_country": "6574",
         "btc_holdings": "763",
-        "extra_val_1": "$396M",
-        "extra_val_2": "$397M",
+        "extra_val_1": "$399M",
+        "extra_val_2": "$400M",
         "live_price": 0
     },
     {
@@ -627,8 +627,8 @@
         "name": "S-Science",
         "ticker_or_country": "5721",
         "btc_holdings": "296",
-        "extra_val_1": "$127M",
-        "extra_val_2": "$114M",
+        "extra_val_1": "$126M",
+        "extra_val_2": "$113M",
         "live_price": 0
     },
     {
@@ -643,7 +643,7 @@
         "name": "Bitplanet",
         "ticker_or_country": "049470",
         "btc_holdings": "265",
-        "extra_val_1": "$63M",
+        "extra_val_1": "$64M",
         "extra_val_2": "â",
         "live_price": 0
     },
