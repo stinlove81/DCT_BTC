@@ -227,8 +227,8 @@
         "name": "The Smarter Web Company PLC",
         "ticker_or_country": "SWC",
         "btc_holdings": "2,674",
-        "extra_val_1": "$15,572M",
-        "extra_val_2": "$15,571M",
+        "extra_val_1": "$15,575M",
+        "extra_val_2": "$15,574M",
         "live_price": 0
     },
     {
@@ -475,7 +475,7 @@
         "name": "Satsuma Technology",
         "ticker_or_country": "SATS",
         "btc_holdings": "620",
-        "extra_val_1": "$4,346M",
+        "extra_val_1": "$4,347M",
         "extra_val_2": "$-80M",
         "live_price": 105.02
     },
@@ -739,7 +739,7 @@
         "name": "B HODL",
         "ticker_or_country": "HODL",
         "btc_holdings": "160",
-        "extra_val_1": "$1,504M",
+        "extra_val_1": "$1,505M",
         "extra_val_2": "â",
         "live_price": 17.8
     },
